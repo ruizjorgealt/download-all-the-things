@@ -1,5 +1,9 @@
-![Download all the things](https://nube-filehost.s3.us-east-2.amazonaws.com/github-images/download-allthethings.png)
-
+```
+  .            .        .     ..   , .        , .            
+ _| _ .    ,._ | _  _. _|   _.||  -+-|_  _   -+-|_ *._  _  __
+(_](_) \/\/ [ )|(_)(_](_]  (_]||   | [ )(/,   | [ )|[ )(_]_) 
+                                                       ._|   
+```
 # download-all-the-things
 Download all files in a directory within an open directory
 
